@@ -7,6 +7,13 @@ and related subjects.
 * [Digital Defynd](https://digitaldefynd.com/) - up to date list of free courses in CS
 * [JS Must Watch List](https://github.com/bolshchikov/js-must-watch) - good js conference overview
 
+## Main Sources
+* [edx.org](https://www.edx.org/) - Good Core Knowledge Courses made in collaboration with top universities
+* [coursera.org](https://www.coursera.org/) - Good subjects topics related to MI, Data Science, Cloud Computing
+* [udemy](https://www.udemy.com/) - Broad Practical Courses from Top Level Experts
+* [egghead.io](https://egghead.io/) - Trending & practical Frontend technologies description from Top Experts
+* [linuxacademy.com](https://linuxacademy.com/) - Learn by doing. Practical Could courses
+
 ## Computer Science
 There are series of good courses in CS as personal preference, some
 
