@@ -22,3 +22,13 @@ Very good Computer Science Video Lectures, broad topic overview. Medium level of
 
 * [MIT 6.046](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
 Next step to advance knowledge after 6.006, level considered as Medium+. Good description of FFT, Graph algorithms. Recommended after 6.006
+
+## Technologies
+* [Kafka](https://www.udemy.com/course/apache-kafka/)
+Good intro to Kafka end event driven architectures
+* [Docker](https://www.udemy.com/course/docker-mastery/) - Awesome Course about docker
+* [Electron](https://www.udemy.com/course/master-electron/) overview of Electron application
+* [React+Firebase](https://www.udemy.com/course/awesome-apps-with-react-hooks-and-firebase/) - Quite dense "learn by doing" courses combining React with hooks & firebase 
+
+## System Design
+* [Cloud Architecture From Google](https://www.coursera.org/learn/gcp-fundamentals/home/welcome) - Good course corresponding certification is also [available](https://www.credential.net/3e4eb8e0-25d2-43d8-bc92-bd37129b1c9a?key=595a768bf58974a92c4462a33bfcffcb424f0f92d672bc5f8d66bf66d0e00bc9)
