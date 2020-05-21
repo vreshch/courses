@@ -33,3 +33,7 @@ Good intro to Kafka end event driven architectures
 
 ## System Design
 * [Cloud Architecture From Google](https://www.coursera.org/learn/gcp-fundamentals/home/welcome) - Good course corresponding certification is also [available](https://www.credential.net/3e4eb8e0-25d2-43d8-bc92-bd37129b1c9a?key=595a768bf58974a92c4462a33bfcffcb424f0f92d672bc5f8d66bf66d0e00bc9)
+
+
+## Other
+* [How to Learn Online](https://courses.edx.org/courses/course-v1:edX+edx201+1T2020/course/) - 30 min courses - good Checklist on How to Learn Online 
