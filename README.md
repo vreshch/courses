@@ -15,6 +15,11 @@ and related subjects.
 * [egghead.io](https://egghead.io/) - Trending & practical Frontend technologies description from Top Experts
 * [linuxacademy.com](https://linuxacademy.com/) - Learn by doing. Practical Could courses
 
+
+## Math
+* [Probability - MIT 6.041](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) - Introduction to Probability. Good intro courses. Related courses [Intro-6.012-2018](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/), [Edex](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+
+
 ## Computer Science
 There are series of good courses in CS as personal preference, some
 
@@ -30,10 +35,11 @@ Good intro to Kafka end event driven architectures
 * [Docker](https://www.udemy.com/course/docker-mastery/) - Awesome Course about docker
 * [Electron](https://www.udemy.com/course/master-electron/) overview of Electron application
 * [React+Firebase](https://www.udemy.com/course/awesome-apps-with-react-hooks-and-firebase/) - Quite dense "learn by doing" courses combining React with hooks & firebase
-* [Progressive Web Apps](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/) - Intro to Progressive Web Application. Good course - a bit too long - recommend to start from last sections. 
+* [Progressive Web Apps](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/) - Intro to Progressive Web Application. Good course - a bit too long - recommend to start from last sections.
 
 ## System Design
 * [Cloud Architecture From Google](https://www.coursera.org/learn/gcp-fundamentals/home/welcome) - Good course corresponding certification is also [available](https://www.credential.net/3e4eb8e0-25d2-43d8-bc92-bd37129b1c9a?key=595a768bf58974a92c4462a33bfcffcb424f0f92d672bc5f8d66bf66d0e00bc9)
+
 
 
 ## Other
