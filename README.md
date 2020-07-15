@@ -16,9 +16,10 @@ and related subjects.
 * [linuxacademy.com](https://linuxacademy.com/) - Learn by doing. Practical Could courses
 
 
-## Math
-* [Probability - MIT 6.041](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) - Introduction to Probability. Good intro courses. Related courses [Intro-6.012-2018](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/), [Edex](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+## Data Science
+* [Probability - MIT 6.041](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) - Introduction to Probability. Good intro courses. Related courses [Intro-6.012-2018](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/), [Edx](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 
+* [Introduction to Data Science](https://courses.edx.org/courses/course-v1:IBM+DS0101EN+1T2020/course/)- Intro to data science with explanation or role subject and requirements for Data Scientist. Certificate is also [available](https://courses.edx.org/certificates/4b9f3c9823f140f5bc96f23f901a3f13).
 
 ## Computer Science
 There are series of good courses in CS as personal preference, some
