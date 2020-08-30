@@ -16,12 +16,17 @@ and related subjects.
 * [linuxacademy.com](https://linuxacademy.com/) - Learn by doing. Practical Could courses
 * [openlearning.mit.edu](https://openlearning.mit.edu/courses-programs/open-learning-library)- Open Courses by MIT
 
+
 ## Core Knowlages 
+* [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - introduction to mathematical notation, boolean algebra, profs by Stanford University. 
+* [MITx: 18.01.1x](https://courses.edx.org/courses/course-v1:MITx+18.01.1x+2T2020/course/) - single variable calculation introduction part A
 * [MITx - 8.01.1x](https://courses.edx.org/courses/course-v1:MITx+8.01.1x+2T2020a/course/) - interactive introduction to mechanics. Certificate is also [available](https://courses.edx.org/certificates/a05038f64a47417d8856ba7ece504103).
 
 
 ## Computer Science
 There are series of good courses in CS as personal preference, some
+
+* [Python - MITx - 6.00.1](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2020/course/) - Good Interactive Introduction to Python.
 
 * [MIT 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 Very good Computer Science Video Lectures, broad topic overview. Medium level of complexity. Some topics - e.g. dynamic programming are brilliant.
@@ -36,10 +41,6 @@ Next step to advance knowledge after 6.006, level considered as Medium+. Good de
 * [Introduction to Data Science](https://courses.edx.org/courses/course-v1:IBM+DS0101EN+1T2020/course/)- Intro to data science with explanation or role subject and requirements for Data Scientist. Certificate is also [available](https://courses.edx.org/certificates/4b9f3c9823f140f5bc96f23f901a3f13).
 
 * [Statistical Learnig](https://courses.edx.org/courses/course-v1:StanfordOnline+STATSX0001+1T2020/course/) - Practical description of Statistical methods Certificate is also [available](https://courses.edx.org/certificates/4764172555ba45bd8b44cd13e96fac0f).
-
-
-## Programing Languages
-* [Python - MITx - 6.00.1](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2020/course/) - Good Interactive Introduction to Python.
 
 
 ## System Design
