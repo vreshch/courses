@@ -61,7 +61,7 @@ Good intro to Kafka end event driven architectures
 * [Electron](https://www.udemy.com/course/master-electron/) overview of Electron application
 * [React+Firebase](https://www.udemy.com/course/awesome-apps-with-react-hooks-and-firebase/) - Quite dense "learn by doing" courses combining React with hooks & firebase
 * [Progressive Web Apps](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/) - Intro to Progressive Web Application. Good course - a bit too long - recommend to start from last sections.
-* [PostMan] (https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/learn/lecture/10970004?start=0#overview)
+* [PostMan](https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/learn/lecture/10970004?start=0#overview)
 
 ## Other
 * [How to Learn Online](https://courses.edx.org/courses/course-v1:edX+edx201+1T2020/course/) - 30 min courses - good Checklist on How to Learn Online
