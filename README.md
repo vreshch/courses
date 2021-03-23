@@ -32,6 +32,7 @@ There are series of good courses in CS as personal preference, some
 Very good Computer Science Video Lectures, broad topic overview. Medium level of complexity. Some topics - e.g. dynamic programming are brilliant.
 * [MIT 6.046](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
 Next step to advance knowledge after 6.006, level considered as Medium+. Good description of FFT, Graph algorithms. Recommended after 6.006
+* [Graph Theory Algorithms](https://www.udemy.com/course/graph-theory-algorithms/) - Simple description for key graph algo's 
 
 ## System Design 
 * [Links Collection](https://github.com/checkcheckzz/system-design-interview) - Collection of links with materials
