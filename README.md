@@ -54,6 +54,12 @@ Next step to advance knowledge after 6.006, level considered as Medium+. Good de
 
 * [Statistical Learnig](https://courses.edx.org/courses/course-v1:StanfordOnline+STATSX0001+1T2020/course/) - Practical description of Statistical methods Certificate is also [available](https://courses.edx.org/certificates/4764172555ba45bd8b44cd13e96fac0f).
 
+## Cloud Technologies
+* [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - awesome cloud intro [certification](https://www.credly.com/badges/bb713174-efec-4c57-b658-c0b738701500?source=linked_in_profile) course
+* [Azure App Services](https://app.pluralsight.com/library/courses/microsoft-azure-app-services-managing/table-of-contents) - good intro to app services with Azure 
+* [NodeJS - Application Developer](https://training.linuxfoundation.org/training/nodejs-application-development-lfw211/) - Good practical [certification](https://www.credly.com/badges/05119dd2-a9fc-4991-9754-2f35297a4eaa) 
+* [Node.js Services Development](https://training.linuxfoundation.org/training/node-js-services-development-lfw212/) - Good practical [certification](https://www.credly.com/badges/bde3a7ba-cf4a-460a-af39-8886e5b4a95d)
+
 ## Technologies
 * [Kafka](https://www.udemy.com/course/apache-kafka/)
 Good intro to Kafka end event driven architectures
