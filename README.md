@@ -11,6 +11,8 @@ and related subjects.
 
 ## Main Sources
 * [edx.org](https://www.edx.org/) - Good Core Knowledge Courses made in collaboration with top universities
+* [pluralsight.com/](https://pluralsight.com/) - Collection of Technology related courses
+* [Linkedin Learning](https://www.linkedin.com/learning/) - Broad spectrum of courses, almost on any topic, available on subscription
 * [coursera.org](https://www.coursera.org/) - Good subjects topics related to MI, Data Science, Cloud Computing
 * [udemy](https://www.udemy.com/) - Broad Practical Courses from Top Level Experts
 * [educative.io](https://www.educative.io/) - Well organized and structures text materials
@@ -22,6 +24,7 @@ and related subjects.
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - introduction to mathematical notation, boolean algebra, profs by Stanford University. 
 * [MITx: 18.01.1x](https://courses.edx.org/courses/course-v1:MITx+18.01.1x+2T2020/course/) - single variable calculation introduction part A
 * [MITx - 8.01.1x](https://courses.edx.org/courses/course-v1:MITx+8.01.1x+2T2020a/course/) - interactive introduction to mechanics. Certificate is also [available](https://courses.edx.org/certificates/a05038f64a47417d8856ba7ece504103).
+* [MITx's 18.03x](https://www.edx.org/course/introduction-to-differential-equations-2) - good intro to differential Equations, supported with practical solutions. 
 
 
 ## Computer Science
@@ -52,7 +55,7 @@ Next step to advance knowledge after 6.006, level considered as Medium+. Good de
 
 * [Introduction to Data Science](https://courses.edx.org/courses/course-v1:IBM+DS0101EN+1T2020/course/)- Intro to data science with explanation or role subject and requirements for Data Scientist. Certificate is also [available](https://courses.edx.org/certificates/4b9f3c9823f140f5bc96f23f901a3f13).
 
-* [Statistical Learnig](https://courses.edx.org/courses/course-v1:StanfordOnline+STATSX0001+1T2020/course/) - Practical description of Statistical methods Certificate is also [available](https://courses.edx.org/certificates/4764172555ba45bd8b44cd13e96fac0f).
+* [Statistical Learning](https://courses.edx.org/courses/course-v1:StanfordOnline+STATSX0001+1T2020/course/) - Practical description of Statistical methods Certificate is also [available](https://courses.edx.org/certificates/4764172555ba45bd8b44cd13e96fac0f).
 
 ## Cloud Technologies
 * [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - awesome cloud intro [certification](https://www.credly.com/badges/bb713174-efec-4c57-b658-c0b738701500?source=linked_in_profile) course
@@ -66,6 +69,7 @@ Next step to advance knowledge after 6.006, level considered as Medium+. Good de
 Good intro to Kafka end event driven architectures
 * [Docker](https://www.udemy.com/course/docker-mastery/) - Awesome Course about docker
 * [Electron](https://www.udemy.com/course/master-electron/) overview of Electron application
+* [GraphQL+Appolo](https://app.pluralsight.com/paths/skill/building-graphql-apis-with-apollo) - Good intro series, highly recommended
 * [React+Firebase](https://www.udemy.com/course/awesome-apps-with-react-hooks-and-firebase/) - Quite dense "learn by doing" courses combining React with hooks & firebase
 * [Progressive Web Apps](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/) - Intro to Progressive Web Application. Good course - a bit too long - recommend to start from last sections.
 * [PostMan](https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/learn/lecture/10970004?start=0#overview)
