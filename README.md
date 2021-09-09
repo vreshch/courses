@@ -24,8 +24,7 @@ and related subjects.
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - introduction to mathematical notation, boolean algebra, profs by Stanford University. 
 * [MITx: 18.01.1x](https://courses.edx.org/courses/course-v1:MITx+18.01.1x+2T2020/course/) - single variable calculation introduction part A
 * [MITx - 8.01.1x](https://courses.edx.org/courses/course-v1:MITx+8.01.1x+2T2020a/course/) - interactive introduction to mechanics. Certificate is also [available](https://courses.edx.org/certificates/a05038f64a47417d8856ba7ece504103).
-* [MITx's 18.03x](https://www.edx.org/course/introduction-to-differential-equations-2) - good intro to differential Equations, supported with practical solutions. 
-
+* [MITx's 18.03x](https://www.edx.org/course/introduction-to-differential-equations-2) - good intro to differential Equations, supported with practical solutions. Certificate is also [available](https://courses.edx.org/certificates/bd808d1f6ccc48f6aa69ff6c85614496).
 
 ## Computer Science
 There are series of good courses in CS as personal preference, some
