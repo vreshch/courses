@@ -26,30 +26,22 @@ and related subjects.
 ## Core Knowledge's
 
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - introduction to mathematical notation, boolean algebra, profs by Stanford University. 
-* [MITx 18.01.1x](https://courses.edx.org/courses/course-v1:MITx+18.01.1x+2T2020/course/) - Calculus 1A: Differentiation. [Certificate available](https://courses.edx.org/certificates/a8df216117874f54875b850704a5f772).
-
-* [MITx 18.01.2x](https://learning.edx.org/course/course-v1:MITx+18.01.2x+3T2021/home) - Calculus 1B: Integration. [Certificates available](https://courses.edx.org/certificates/b8c4268f0c7f46a9a0c2b52b32bbfed6)
-
-* [MITx 18.02.1x](https://learning.edx.org/course/course-v1:MITx+18.02.1x+2T2021/home)- Multivariable Calculus 1: Vectors and Derivatives. [Certificates available](https://courses.edx.org/certificates/4594f8ee3f894e618761353f2b606236)
-
-* [MITx's 18.03x](https://www.edx.org/course/introduction-to-differential-equations-2) - Introduction to Differential Equations. Good intro supported with practical tasks. [Certificate available](https://courses.edx.org/certificates/bd808d1f6ccc48f6aa69ff6c85614496).
-
-* [MITx's 18.032x](https://learning.edx.org/course/course-v1:MITx+18.032x+3T2021/home)  Differential Equations: 2x2 Systems - [Certificate available](https://courses.edx.org/certificates/f2e41dbdee794b5fab7d7294edd7b685).
-
-* [MITx - 8.01.1x](https://courses.edx.org/courses/course-v1:MITx+8.01.1x+2T2020a/course/) - Interactive introduction to mechanics. [Certificate available](https://courses.edx.org/certificates/a05038f64a47417d8856ba7ece504103).
+* [MITx 18.01.1x](https://courses.edx.org/courses/course-v1:MITx+18.01.1x+2T2020/course/) - Calculus 1A: Differentiation. Certificate [available](https://courses.edx.org/certificates/a8df216117874f54875b850704a5f772).
+* [MITx 18.01.2x](https://learning.edx.org/course/course-v1:MITx+18.01.2x+3T2021/home) - Calculus 1B: Integration. Certificate [available](https://courses.edx.org/certificates/b8c4268f0c7f46a9a0c2b52b32bbfed6).
+* [MITx 18.02.1x](https://learning.edx.org/course/course-v1:MITx+18.02.1x+2T2021/home)- Multivariable Calculus 1: Vectors and Derivatives. Certificate [available](https://courses.edx.org/certificates/4594f8ee3f894e618761353f2b606236).
+* [MITx 18.03x](https://www.edx.org/course/introduction-to-differential-equations-2) - Introduction to Differential Equations. Good intro supported with practical tasks. [Certificate available](https://courses.edx.org/certificates/bd808d1f6ccc48f6aa69ff6c85614496).
+* [MITx 18.032x](https://learning.edx.org/course/course-v1:MITx+18.032x+3T2021/home)  Differential Equations: 2x2 Systems - Certificate [available](https://courses.edx.org/certificates/f2e41dbdee794b5fab7d7294edd7b685).
+* [MITx 8.01.1x](https://courses.edx.org/courses/course-v1:MITx+8.01.1x+2T2020a/course/) - Interactive introduction to mechanics. Certificate [available](https://courses.edx.org/certificates/a05038f64a47417d8856ba7ece504103).
 
 ## Computer Science
 
 There are series of good courses in CS as personal preference, some
 
-* [Python - MITx - 6.00.1](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2020/course/) - Good Interactive Introduction to Python.
-
+* [MITx 6.00.1](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2020/course/) - Introduction to Computer Science and Programming Using Python. Good Interactive Introduction to Python.
 * [MIT 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 Very good Computer Science Video Lectures, broad topic overview. Medium level of complexity. Some topics - e.g. dynamic programming are brilliant.
-
 * [MIT 6.046](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
 Next step to advance knowledge after 6.006, level considered as Medium+. Good description of FFT, Graph algorithms. Recommended after 6.006
-
 * [Graph Theory Algorithms](https://www.udemy.com/course/graph-theory-algorithms/) - Simple description for key graph algo's
 
 ## System Design
@@ -69,14 +61,10 @@ Next step to advance knowledge after 6.006, level considered as Medium+. Good de
 
 ## Data Science
 
-* [MIT - 6.041](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) - Introduction to Probability
-
-* [MIT - 18.6501x](https://learning.edx.org/course/course-v1:MITx+18.6501x+2T2020/home) - Fundamentals of Statistics. [Certificate available](https://courses.edx.org/certificates/6bd2372017624b6585ec2df129988079).
-
-* [MIT - 6.86x](https://learning.edx.org/course/course-v1:MITx+6.86x+3T2021/home) - Machine Learning with Python-From Linear Models to Deep Learning. Cool intro to ML with practical coding tasks & auto checks [Certificate available](https://courses.edx.org/certificates/bbeea60e3d8845a8989b201f41e3e594)
-
-* [Introduction to Data Science](https://courses.edx.org/courses/course-v1:IBM+DS0101EN+1T2020/course/)- Intro to data science with explanation or role subject and requirements for Data Scientist. Certificate is also [available](https://courses.edx.org/certificates/4b9f3c9823f140f5bc96f23f901a3f13).
-
+* [MIT 6.041](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) - Introduction to Probability
+* [MIT 18.6501x](https://learning.edx.org/course/course-v1:MITx+18.6501x+2T2020/home) - Fundamentals of Statistics. Certificate [available](https://courses.edx.org/certificates/6bd2372017624b6585ec2df129988079)
+* [MIT 6.86x](https://learning.edx.org/course/course-v1:MITx+6.86x+3T2021/home) - Machine Learning with Python-From Linear Models to Deep Learning. Cool intro to ML with practical coding tasks & auto checks. Certificate [available](https://courses.edx.org/certificates/bbeea60e3d8845a8989b201f41e3e594)
+* [Introduction to Data Science](https://courses.edx.org/courses/course-v1:IBM+DS0101EN+1T2020/course/)- Intro to data science with explanation or role subject and requirements for Data Scientist. Certificate [available](https://courses.edx.org/certificates/4b9f3c9823f140f5bc96f23f901a3f13).
 * [Statistical Learning](https://courses.edx.org/courses/course-v1:StanfordOnline+STATSX0001+1T2020/course/) - Practical description of Statistical methods Certificate is also [available](https://courses.edx.org/certificates/4764172555ba45bd8b44cd13e96fac0f).
 
 ## Cloud Technologies
