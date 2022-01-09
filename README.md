@@ -29,7 +29,7 @@ and related subjects.
 * [MITx 18.01.1x](https://courses.edx.org/courses/course-v1:MITx+18.01.1x+2T2020/course/) - Calculus 1A: Differentiation. Certificate [available](https://courses.edx.org/certificates/a8df216117874f54875b850704a5f772).
 * [MITx 18.01.2x](https://learning.edx.org/course/course-v1:MITx+18.01.2x+3T2021/home) - Calculus 1B: Integration. Certificate [available](https://courses.edx.org/certificates/b8c4268f0c7f46a9a0c2b52b32bbfed6).
 * [MITx 18.02.1x](https://learning.edx.org/course/course-v1:MITx+18.02.1x+2T2021/home)- Multivariable Calculus 1: Vectors and Derivatives. Certificate [available](https://courses.edx.org/certificates/4594f8ee3f894e618761353f2b606236).
-* [MITx 18.03x](https://www.edx.org/course/introduction-to-differential-equations-2) - Introduction to Differential Equations. Good intro supported with practical tasks. [Certificate available](https://courses.edx.org/certificates/bd808d1f6ccc48f6aa69ff6c85614496).
+* [MITx 18.03x](https://www.edx.org/course/introduction-to-differential-equations-2) - Introduction to Differential Equations. Certificate [available](https://courses.edx.org/certificates/bd808d1f6ccc48f6aa69ff6c85614496).
 * [MITx 18.032x](https://learning.edx.org/course/course-v1:MITx+18.032x+3T2021/home)  Differential Equations: 2x2 Systems - Certificate [available](https://courses.edx.org/certificates/f2e41dbdee794b5fab7d7294edd7b685).
 * [MITx 8.01.1x](https://courses.edx.org/courses/course-v1:MITx+8.01.1x+2T2020a/course/) - Interactive introduction to mechanics. Certificate [available](https://courses.edx.org/certificates/a05038f64a47417d8856ba7ece504103).
 
